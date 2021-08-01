@@ -1,0 +1,28 @@
+#red{
+    color : red;
+    
+}
+body{
+    font-family: 'Georama', sans-serif;
+}
+.dark{
+    color: maroon;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width:40%;
+}
+.half-width img{
+    width:100% ;
+    padding-left: 3%;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(maroon,red,white,orange);
+    color:black;
+    padding: 10px 20px;
+    border-radius: 12px;
+    font-weight: 800;
+}
