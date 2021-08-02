@@ -4,7 +4,8 @@
 }
 body{
     font-family: 'Georama', sans-serif;
-}
+    margin: 0px;
+}   
 .dark{
     color: maroon;
 }
@@ -13,7 +14,7 @@ section{
 }
 .half-width{
     width:40%;
-}
+   
 .half-width img{
     width:100% ;
     padding-left: 3%;
@@ -26,3 +27,36 @@ section{
     border-radius: 12px;
     font-weight: 800;
 }
+.BLUE{
+    color: royalblue;
+}
+.half{
+    width: 50%;
+    
+}
+.half-width img{
+    width: 80%;
+    height: 50%;
+
+}
+.hah-ima{
+    width: 50%;
+    height: 100%;
+}
+.buttun{
+    background-color: lime;
+    color: maroon;
+    border-radius: 20px;
+    background-image: linear-gradient(lime,blue,yellow);
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: 700px;
+}
+.top{
+    border-top-width: 50px;
+    background-image:  url(images/top-banner.png);
+    background-repeat: none;
+}
+
+
+
